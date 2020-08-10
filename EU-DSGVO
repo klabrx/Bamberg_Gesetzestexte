@@ -1,0 +1,63 @@
+\chapter[EU-StatV]{EU-Statistikverordnung}
+\qrcode{https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32009R0223&from=DE}
+\newline
+\url{https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32009R0223&from=DE}
+    \section{Art. 2: Statistische Grundsätze}
+        \begin{enumerate}[label=(\arabic*)]
+            \item Für die Entwicklung, Erstellung und Verbreitung europäischer Statistiken gelten die folgenden statistischen Grundsätze:
+            \begin{enumerate}
+                \item ``Fachliche Unabhängigkeit'' bedeutet, dass die Statistiken auf unabhängige Weise entwickelt, erstellt und verbreitet werden müssen, insbesondere was die Wahl der zu verwendenden Verfahren, Definitionen, Methoden und Quellen sowie den Zeitpunkt und den Inhalt aller Verbreitungsformen anbelangt, ohne dass politische Gruppen oder Interessengruppen oder Stellen der Gemeinschaft oder einzelstaatliche Stellen Druck ausüben können; dies gilt unbeschadet institutioneller Rahmenbedingungen wie gemeinschaftlicher oder einzelstaatlicher institutioneller oder haushaltsrechtlicher Bestimmungen oder der Festlegung des statistischen Bedarfs.
+                \item ``Unparteilichkeit'' bedeutet, dass die Statistiken auf neutrale Weise entwickelt, erstellt und verbreitet und dass alle Nutzer gleich behandelt werden müssen.
+                \item ``Objektivität'' bedeutet, dass die Statistiken in systematischer, zuverlässiger und unvoreingenommener Weise entwickelt, erstellt und verbreitet werden müssen; dabei werden fachliche und ethische Standards angewandt und die angewandten Grundsätze und Verfahren sind für Nutzer und Befragte transparent.
+                \item ``Zuverlässigkeit'' bedeutet, dass die Statistiken die Gegebenheiten, die sie abbilden sollen, so getreu, genau und konsistent wie möglich messen müssen, wobei zur Wahl der Quellen, Methoden und Verfahren wissenschaftliche Kriterien herangezogen werden.
+                \item ``Statistische Geheimhaltung'' bedeutet, dass direkt für statistische Zwecke oder indirekt aus administrativen oder sonstigen Quellen eingeholte vertrauliche Angaben über einzelne statistische Einheiten geschützt werden müssen, wobei die Verwendung der eingeholten Angaben für nichtstatistische Zwecke und ihre unrechtmässige Offenlegung untersagt sind.
+                \item ``Kostenwirksamkeit'' bedeutet, dass die Kosten für die Erstellung der Statistiken in einem angemessenen Verhältnis zur Bedeutung des angestrebten Ergebnisses und Nutzens stehen und die Mittel optimal genutzt werden müssen und dass der Beantwortungsaufwand so gering wie möglich gehalten werden muss. Die verlangten Informationen werden nach Möglichkeit direkt aus vorhandenen Unterlagen oder Quellen entnommen.
+            \end{enumerate}
+            Die in diesem Absatz dargelegten statistischen Grundsätze werden in dem in Artikel 11 genannten Verhaltenskodex weiter ausgearbeitet.
+            \item Bei der Entwicklung, Erstellung und Verbreitung europäischer Statistiken werden internationale Empfehlungen und vorbildliche Verfahren (best practice) berück\-sich\-tigt.
+        \end{enumerate}
+    \section{Art. 3: Definitionen}
+        Für die Zwecke dieser Verordnung bezeichnet der Ausdruck:
+        \begin{enumerate}
+            \item ``Statistiken'' quantitative und qualitative, aggregierte und repräsentative Informationen, die ein Massenphänomen in einer betrachteten Grundgesamtheit beschreiben;
+            \item ``Entwicklung'' die Tätigkeiten zur Festlegung, Stärkung und Verbesserung der für die Erstellung und Verbreitung von Statistiken verwendeten statistischen Methoden, Standards und Verfahren sowie zur Konzeption neuer Statistiken und Indikatoren;
+            \item ``Erstellung'' alle im Zusammenhang mit der Erhebung, Speicherung, Verarbeitung und Analyse stehenden Tätigkeiten, die zur Erstellung von Statistiken erforderlich sind;
+            \item ``Verbreitung'' die Tätigkeit, mit der Statistiken und statistische Analysen den Nutzern zugänglich gemacht werden;
+            \item ``Datengewinnung'' Befragungen und alle sonstigen Methoden der Gewinnung von Informationen aus unterschiedlichen Quellen, einschliesslich administrativer Quellen;
+            \item ``Statistische Einheit'' die Grundbeobachtungseinheit, das heisst eine natürliche Person, ein Haushalt, ein Wirtschaftsteilnehmer oder eine sonstige Unternehmung, auf die sich die Daten beziehen;
+            \item ``Vertrauliche Daten'' Daten, die eine direkte oder indirekte Identifizierung statistischer Einheiten möglich machen und dadurch Einzelinformationen offenlegen. Bei der Entscheidung, ob eine statistische Einheit identifizierbar ist, sind alle Mittel zu berücksichtigen, die nach vernünftigem Ermessen von einem Dritten angewendet werden könnten, um die statistische Einheit zu identifizieren;
+            \item ``Verwendung für statistische Zwecke'' die ausschliessliche Verwendung für die Entwicklung und Erstellung statistischer Ergebnisse und Analysen;
+            \item ``Direkte Identifizierung'' die Identifizierung einer statistischen Einheit anhand ihres Namens oder ihrer Anschrift oder anhand einer öffentlich zugänglichen Identifikationsnummer;
+            \item ``Indirekte Identifizierung'' die Identifizierung einer statistischen Einheit durch andere Mittel als die direkte Identifizierung;
+            \item ``Beamte der Kommission (Eurostat)'' Beamte der Gemeinschaften im Sinne von Artikel 1 des Statuts der Beamten der Europäischen Gemeinschaften, die bei der statistischen Stelle der Gemeinschaft tätig sind;
+            \item ``Sonstige Mitarbeiter der Kommission (Eurostat)'' Bedienstete der Gemeinschaften im Sinne der Artikel 2 bis 5 der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Gemeinschaften, die bei der statistischen Stelle der Gemeinschaft tätig sind.
+        \end{enumerate}
+    \section{Art. 12: Qualität der Statistik}
+        \begin{enumerate}[label=(\arabic*)]
+            \item Um die Qualität der Ergebnisse zu gewährleisten, werden europäische Statistiken auf der Grundlage einheitlicher Standards und nach harmonisierten Methoden entwickelt, erstellt und verbreitet. Dabei gelten die folgenden Qualitätskriterien:
+            \begin{enumerate}
+                \item ``Relevanz'': diese bezieht sich auf den Umfang, in dem die Statistiken dem aktuellen und potenziellen Nutzerbedarf entsprechen;
+                \item ``Genauigkeit'': diese bezieht sich auf den Grad der Übereinstimmung der Schätzungen mit den unbekannten wahren Werten;
+                \item ``Aktualität'': diese bezieht sich auf die Zeitspanne zwischen dem Vorliegen der Information und dem von ihr beschriebenen Ereignis oder Phänomen;
+                \item ``Pünktlichkeit'': diese bezieht sich auf die Zeitspanne zwischen dem Zeitpunkt der Veröffentlichung der Daten und dem Zieltermin (Termin, zu dem die Daten geliefert werden sollten);
+                \item ``Zugänglichkeit'' und ``Klarheit'': diese beziehen sich auf die Bedingungen und Modalitäten, unter denen die Nutzer Daten erhalten, verwenden und interpretieren können;
+                \item ``Vergleichbarkeit'': diese bezieht sich auf die Messung der Auswirkungen von Unterschieden in den verwendeten statistischen Konzepten, Messinstrumenten und -verfahren bei Vergleichen von Statistiken für unterschiedliche geografische Gebiete oder thematische Bereiche oder bei zeitlichen Vergleichen;
+                \item ``Kohärenz'': diese bezieht sich auf die Eignung der Daten, auf unterschiedliche Weise und für verschiedene Zwecke zuverlässig kombiniert zu werden.
+            \end{enumerate}
+            \item Bei der Anwendung der in Absatz 1 festgelegten Qualitätskriterien auf die unter sektorale Rechtsvorschriften in bestimmten Statistikbereichen fallenden Daten werden die Modalitäten, der Aufbau und die Periodizität der in den sektoralen Rechtsvorschriften vorgesehenen Qualitätsberichte von der Kommission nach dem in Artikel 27 Absatz 2 genannten Regelungsverfahren festgelegt.
+            Besondere Qualitätsanforderungen wie Zielwerte und Mindeststandards für die Statistikproduktion können in sektoralen Rechtsvorschriften festgelegt sein. Enthalten die sektoralen Rechtsvorschriften keine derartigen Bestimmungen, kann die Kommission entsprechende Massnahmen ergreifen. Diese Massnahmen zur Änderung nicht wesentlicher Bestimmungen dieser Verordnung durch Ergänzung werden nach dem in Artikel 27 Absatz 3 genannten Regelungsverfahren mit Kontrolle erlassen.
+            \item Die Mitgliedstaaten legen der Kommission (Eurostat) Berichte über die Qualität der übermittelten Daten vor. Die Kommission (Eurostat) bewertet die Qualität der übermittelten Daten und erstellt und veröffentlicht Berichte über die Qualität der europäischen Statistiken.
+        \end{enumerate}
+    \section{Art. 20: Schutz vertraulicher Daten}
+        \begin{enumerate}[label=(\arabic*)]
+            \item Die folgenden Regeln und Massnahmen gelten, um sicherzustellen, dass vertrauliche Daten ausschliesslich für statistische Zwecke verwendet werden und ihre rechtswidrige Offenlegung verhindert wird.
+            \item Vertrauliche Daten, die ausschliesslich für die Erstellung europäischer Statistiken erhoben wurden, werden von den NSÄ und anderen einzelstaatlichen Stellen und von der Kommission (Eurostat) ausschliesslich für statistische Zwecke verwendet, es sei denn, die statistische Einheit hat unmissverständlich ihre Zustimmung zur Verwendung der Daten zu anderen Zwecken erteilt.
+            \item Statistische Ergebnisse, die die Identifizierung einer statistischen Einheit ermög\-lichen könnten, dürfen in folgenden Ausnahmefällen von den NSÄ und anderen einzelstaatlichen Stellen und der Kommission (Eurostat) verbreitet werden:
+            \begin{enumerate}
+                \item wenn in einem Rechtsakt des Europäischen Parlaments und des Rates gemäss Artikel 251 des Vertrags besondere Bedingungen und Modalitäten festgelegt sind und die statistischen Ergebnisse auf Ersuchen der statistischen Einheit so verändert werden, dass ihre Verbreitung die statistische Geheimhaltung nicht gefährdet; oder
+                \item wenn die statistische Einheit der Offenlegung der Daten unmissverständlich zugestimmt hat.
+            \end{enumerate}
+            \item Die NSÄ und andere einzelstaatliche Stellen und die Kommission (Eurostat) ergreifen innerhalb ihrer jeweiligen Zuständigkeitsbereiche alle erforderlichen rechtlichen, administrativen, technischen und organisatorischen Massnahmen, um den physischen und logischen Schutz vertraulicher Daten zu gewährleisten (statistische Offenlegungskontrolle).
+            \item Die NSÄ und andere einzelstaatliche Stellen und die Kommission (Eurostat) ergreifen alle erforderlichen Massnahmen, um die Harmonisierung der Grundsätze und Leitlinien für den physischen und logischen Schutz vertraulicher Daten zu gewährleisten. Diese Massnahmen werden von der Kommission nach dem in Artikel 27 Absatz 2 genannten Regelungsverfahren erlassen.
+            \item Beamte und sonstige Mitarbeiter der NSÄ und anderer einzelstaatlicher Stellen, die Zugang zu vertraulichen Daten haben, unterliegen auch nach ihrem Ausscheiden aus dem Dienst der statistischen Geheimhaltungspflicht.
+        \end{enumerate}
