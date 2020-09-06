@@ -9,6 +9,10 @@
 \setcounter{secnumdepth}{0}
 
 \usepackage{fancyhdr}
+\usepackage{minitoc}
+    \mtcselectlanguage{german}
+
+\usepackage{booktabs}
 
 \pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
@@ -44,13 +48,17 @@
 \date{Herbst 2020}
 
 \begin{document}
+\dominitoc
 \maketitle
 \tableofcontents
 
 \include{EUStatV}
 \include{BStatG}
 \include{BayStatG}
-\include{LStatGNRW}
+% \include{LStatGNRW}
+
+\include{LStatGMV}
+
 \include{StatSPA}
 
 \include{EU-DSGVO}
