@@ -5,6 +5,7 @@
 \usepackage[ngerman]{babel}
 \usepackage{qrcode}
 
+\usepackage{xcolor}
 \usepackage{enumitem}
 \setcounter{secnumdepth}{0}
 
@@ -14,7 +15,38 @@
 
 \usepackage{booktabs}
 
-\pagestyle{fancy}
+%----
+\PassOptionsToPackage{svgnames}{xcolor}
+\usepackage{tcolorbox}
+\usepackage{lipsum}
+\tcbuselibrary{skins,breakable}
+\usetikzlibrary{shadings,shadows}
+
+
+
+
+
+\newenvironment{myblock}[1]{%
+    \tcolorbox[beamer,%
+    noparskip,breakable,
+    title=#1]}%
+    {\endtcolorbox}
+%---
+
+
+
+
+\makeatletter
+\newcommand{\chapterauthor}[1]{%
+  {\parindent20pt\vspace*{-25pt}%
+  \linespread{1.1}\large\scshape#1%
+  \par\nobreak\vspace*{35pt}}
+  \@afterheading%
+}
+\makeatother
+
+
+%\pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 % \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
@@ -40,6 +72,8 @@
                        \@afterheading
                      \fi}
 
+\setlength{\parskip}{\baselineskip}%
+\setlength{\parindent}{0pt}%
 
 
 \title{Einführung in die Kommunalstatistik}
@@ -71,6 +105,8 @@
 
 
 \include{LeitfadenAKSSBay}
+
+\include{HessenBlog}
     
 \include{Linklist}
 
