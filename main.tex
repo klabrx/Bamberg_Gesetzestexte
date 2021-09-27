@@ -1,5 +1,5 @@
-\documentclass[A4, 12pt]{scrbook}
-
+\documentclass[A4, 12t, headings=optiontoheadandtoc]{scrbook}
+\usepackage[landscape=true]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
 \usepackage[ngerman]{babel}
@@ -10,6 +10,8 @@
 \setcounter{secnumdepth}{0}
 
 \usepackage{fancyhdr}
+\setlength{\headheight}{30pt}
+
 \usepackage{minitoc}
     \mtcselectlanguage{german}
 
@@ -46,7 +48,7 @@
 \makeatother
 
 
-%\pagestyle{fancy}
+\pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 % \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
@@ -107,6 +109,8 @@
 \include{LeitfadenAKSSBay}
 
 \include{HessenBlog}
+
+\include{ReferentenentwurfMietspiegelverordnung}
     
 \include{Linklist}
 
